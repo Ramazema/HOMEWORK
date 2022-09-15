@@ -1,0 +1,10 @@
+Johnson	244436.12
+Williams	15494.50
+Brown	 76584.00
+Miller	193322.45
+Davis	191143.00
+Moore	152005.01
+Thompson	83000.12
+Garcia	83000.15
+Hall	123632.78
+Green	148500.99
